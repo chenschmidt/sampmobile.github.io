@@ -1,7 +1,7 @@
 {
     "clientVersion": 16,
-    "client_url": "http://18.166.193.40/mobile/apk/samp.apk",
-    "data_full_url": "http://18.166.193.40/mobile/cache/full_list.json",
-    "data_lite_url": "http://18.166.193.40/mobile/cache/lite_list.json",
-    "data_samp_url": "http://18.166.193.40/mobile/cache/samp_list.json"
+    "client_url": "https://unisamp-mobile.ru/mobile/apk/samp.apk",
+    "data_full_url": "https://cdn-samplauncher.perfect-antiddos.com/mobile/cache/full_list.json",
+    "data_lite_url": "https://cdn-samplauncher.perfect-antiddos.com/mobile/cache/lite_list.json",
+    "data_samp_url": "https://cdn-samplauncher.perfect-antiddos.com/mobile/cache/samp_list.json"
 }
